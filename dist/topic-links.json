@@ -1,0 +1,561 @@
+{
+  "delivery-campbell.html": {
+    "topics": [
+      "delivery-and-travel",
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-how-far-legal-delivery-south-bay.html",
+      "story-delivery-vs-pickup-checklist.html",
+      "delivery-san-jose.html"
+    ]
+  },
+  "delivery-cupertino.html": {
+    "topics": [
+      "delivery-and-travel",
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-how-far-legal-delivery-south-bay.html",
+      "story-delivery-vs-pickup-checklist.html",
+      "delivery-san-jose.html"
+    ]
+  },
+  "delivery-milpitas.html": {
+    "topics": [
+      "delivery-and-travel",
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-how-far-legal-delivery-south-bay.html",
+      "story-delivery-vs-pickup-checklist.html",
+      "delivery-san-jose.html"
+    ]
+  },
+  "delivery-san-jose.html": {
+    "topics": [
+      "delivery-and-travel",
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-how-far-legal-delivery-south-bay.html",
+      "story-delivery-vs-pickup-checklist.html",
+      "delivery-cupertino.html"
+    ]
+  },
+  "delivery-santa-clara.html": {
+    "topics": [
+      "delivery-and-travel",
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-how-far-legal-delivery-south-bay.html",
+      "story-delivery-vs-pickup-checklist.html",
+      "delivery-san-jose.html"
+    ]
+  },
+  "delivery-sunnyvale.html": {
+    "topics": [
+      "delivery-and-travel",
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-how-far-legal-delivery-south-bay.html",
+      "story-delivery-vs-pickup-checklist.html",
+      "delivery-san-jose.html"
+    ]
+  },
+  "guide-apartment-delivery.html": {
+    "topics": [
+      "delivery-and-travel",
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-porch-theft-delivery-security.html",
+      "story-returns-recalls-failed-product.html",
+      "guide-delivery-discounts.html"
+    ]
+  },
+  "guide-delivery-discounts.html": {
+    "topics": [
+      "checkout-and-value",
+      "delivery-and-travel"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-out-the-door-math-sales-tax.html",
+      "story-tipping-budtenders-california-norms.html",
+      "guide-delivery-vs-pickup.html"
+    ]
+  },
+  "guide-delivery-vs-pickup.html": {
+    "topics": [
+      "checkout-and-value",
+      "delivery-and-travel"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-compare-value-price-per-mg-edibles.html",
+      "story-tipping-budtenders-california-norms.html",
+      "guide-delivery-discounts.html"
+    ]
+  },
+  "guide-fees-taxes-and-tips.html": {
+    "topics": [
+      "checkout-and-value",
+      "home-and-hosting"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-out-the-door-math-sales-tax.html",
+      "story-returns-recalls-failed-product.html",
+      "guide-apartment-delivery.html"
+    ]
+  },
+  "guide-first-delivery.html": {
+    "topics": [
+      "delivery-and-travel",
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-out-the-door-math-sales-tax.html",
+      "story-how-far-legal-delivery-south-bay.html",
+      "guide-apartment-delivery.html"
+    ]
+  },
+  "guide-order-troubleshooting.html": {
+    "topics": [
+      "delivery-and-travel",
+      "home-and-hosting"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-porch-theft-delivery-security.html",
+      "story-delivery-vs-pickup-checklist.html",
+      "guide-first-delivery.html"
+    ]
+  },
+  "index.html": {
+    "topics": [
+      "checkout-and-value",
+      "delivery-and-travel"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-porch-theft-delivery-security.html",
+      "story-delivery-vs-pickup-checklist.html",
+      "guide-first-delivery.html"
+    ]
+  },
+  "san-jose-field-notes.html": {
+    "topics": [
+      "delivery-and-travel",
+      "home-and-hosting"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-mexican-vietnamese-south-bay-flavors-hospitality.html",
+      "story-porch-theft-delivery-security.html",
+      "index.html"
+    ]
+  },
+  "story-accessibility-mobility-sensory-shopping.html": {
+    "topics": [
+      "safer-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-shopping-with-friend-caretaker-etiquette.html",
+      "story-adult-use-vs-medical-card.html"
+    ]
+  },
+  "story-adult-use-vs-medical-card.html": {
+    "topics": [
+      "safer-shopping"
+    ],
+    "contextual_links": [
+      "story-hotels-airbnb-consuming-visiting.html",
+      "story-id-age-21-purchase-limits.html"
+    ],
+    "related": [
+      "story-id-age-21-purchase-limits.html",
+      "story-shopping-with-friend-caretaker-etiquette.html"
+    ]
+  },
+  "story-building-personal-menu-three-products.html": {
+    "topics": [
+      "checkout-and-value"
+    ],
+    "contextual_links": [
+      "story-compare-value-price-per-mg-edibles.html",
+      "story-pet-safety-edibles-look-like-treats.html",
+      "story-stash-etiquette-roommates-silicon-valley.html"
+    ],
+    "related": [
+      "story-compare-value-price-per-mg-edibles.html",
+      "story-coupons-bogos-stacking-rules.html",
+      "index.html"
+    ]
+  },
+  "story-compare-value-price-per-mg-edibles.html": {
+    "topics": [
+      "checkout-and-value"
+    ],
+    "contextual_links": [
+      "story-out-the-door-math-sales-tax.html",
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-building-personal-menu-three-products.html",
+      "story-coupons-bogos-stacking-rules.html",
+      "index.html"
+    ]
+  },
+  "story-coupons-bogos-stacking-rules.html": {
+    "topics": [
+      "checkout-and-value"
+    ],
+    "contextual_links": [
+      "story-compare-value-price-per-mg-edibles.html",
+      "story-id-age-21-purchase-limits.html",
+      "story-out-the-door-math-sales-tax.html"
+    ],
+    "related": [
+      "story-out-the-door-math-sales-tax.html",
+      "story-purple-lotus-labor-day-deals-both-doors.html",
+      "index.html"
+    ]
+  },
+  "story-debit-cash-atms-paying.html": {
+    "topics": [
+      "checkout-and-value"
+    ],
+    "contextual_links": [
+      "story-adult-use-vs-medical-card.html",
+      "story-out-the-door-math-sales-tax.html"
+    ],
+    "related": [
+      "story-tipping-budtenders-california-norms.html",
+      "story-coupons-bogos-stacking-rules.html",
+      "index.html"
+    ]
+  },
+  "story-delivery-vs-pickup-checklist.html": {
+    "topics": [
+      "delivery-and-travel"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-how-far-legal-delivery-south-bay.html",
+      "story-porch-theft-delivery-security.html",
+      "index.html"
+    ]
+  },
+  "story-driving-with-cannabis-trunk-rules.html": {
+    "topics": [
+      "delivery-and-travel"
+    ],
+    "contextual_links": [
+      "story-adult-use-vs-medical-card.html"
+    ],
+    "related": [
+      "story-flying-sjc-cannabis-dont.html",
+      "story-how-far-legal-delivery-south-bay.html",
+      "index.html"
+    ]
+  },
+  "story-flying-sjc-cannabis-dont.html": {
+    "topics": [
+      "delivery-and-travel"
+    ],
+    "contextual_links": [
+      "story-hotels-airbnb-consuming-visiting.html"
+    ],
+    "related": [
+      "story-driving-with-cannabis-trunk-rules.html",
+      "story-how-far-legal-delivery-south-bay.html",
+      "index.html"
+    ]
+  },
+  "story-gifting-cannabis-california-awkwardness.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-pet-safety-edibles-look-like-treats.html",
+      "story-wedding-party-favors-legal-limits.html"
+    ],
+    "related": [
+      "story-stash-etiquette-roommates-silicon-valley.html",
+      "story-wedding-party-favors-legal-limits.html",
+      "guide-fees-taxes-and-tips.html"
+    ]
+  },
+  "story-holiday-hosting-labor-day-halloween.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-gifting-cannabis-california-awkwardness.html",
+      "story-out-the-door-math-sales-tax.html",
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-wedding-party-favors-legal-limits.html",
+      "story-sharks-earthquakes-49ers-watch-hosting.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "story-home-grow-san-jose-plant-limits-neighbors.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-pet-safety-edibles-look-like-treats.html",
+      "story-stash-etiquette-roommates-silicon-valley.html"
+    ],
+    "related": [
+      "story-smoke-vapor-edible-apartments-hoas.html",
+      "story-stash-etiquette-roommates-silicon-valley.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "story-hotels-airbnb-consuming-visiting.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-smoke-vapor-edible-apartments-hoas.html",
+      "story-stash-etiquette-roommates-silicon-valley.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "story-how-far-legal-delivery-south-bay.html": {
+    "topics": [
+      "delivery-and-travel"
+    ],
+    "contextual_links": [
+      "story-driving-with-cannabis-trunk-rules.html",
+      "story-id-age-21-purchase-limits.html"
+    ],
+    "related": [
+      "story-delivery-vs-pickup-checklist.html",
+      "story-driving-with-cannabis-trunk-rules.html",
+      "delivery-santa-clara.html"
+    ]
+  },
+  "story-id-age-21-purchase-limits.html": {
+    "topics": [
+      "safer-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-adult-use-vs-medical-card.html",
+      "story-shopping-with-friend-caretaker-etiquette.html"
+    ]
+  },
+  "story-late-night-snack-pairings-food-culture.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-mexican-vietnamese-south-bay-flavors-hospitality.html",
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-mexican-vietnamese-south-bay-flavors-hospitality.html",
+      "story-sharks-earthquakes-49ers-watch-hosting.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "story-mexican-vietnamese-south-bay-flavors-hospitality.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-late-night-snack-pairings-food-culture.html",
+      "story-sharks-earthquakes-49ers-watch-hosting.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "story-out-the-door-math-sales-tax.html": {
+    "topics": [
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-coupons-bogos-stacking-rules.html",
+      "story-tipping-budtenders-california-norms.html",
+      "index.html"
+    ]
+  },
+  "story-over-intoxicated-edible-safety.html": {
+    "topics": [
+      "safer-shopping"
+    ],
+    "contextual_links": [
+      "story-pet-safety-edibles-look-like-treats.html",
+      "story-smoke-vapor-edible-apartments-hoas.html"
+    ],
+    "related": [
+      "story-pet-safety-edibles-look-like-treats.html",
+      "story-parents-adult-kids-talk-without-panic.html"
+    ]
+  },
+  "story-parents-adult-kids-talk-without-panic.html": {
+    "topics": [
+      "safer-shopping"
+    ],
+    "contextual_links": [
+      "story-over-intoxicated-edible-safety.html",
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-over-intoxicated-edible-safety.html",
+      "story-shopping-with-friend-caretaker-etiquette.html"
+    ]
+  },
+  "story-pet-safety-edibles-look-like-treats.html": {
+    "topics": [
+      "safer-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-over-intoxicated-edible-safety.html",
+      "story-parents-adult-kids-talk-without-panic.html"
+    ]
+  },
+  "story-porch-theft-delivery-security.html": {
+    "topics": [
+      "delivery-and-travel"
+    ],
+    "contextual_links": [
+      "story-accessibility-mobility-sensory-shopping.html",
+      "story-debit-cash-atms-paying.html",
+      "story-stash-etiquette-roommates-silicon-valley.html"
+    ],
+    "related": [
+      "story-delivery-vs-pickup-checklist.html",
+      "story-how-far-legal-delivery-south-bay.html",
+      "index.html"
+    ]
+  },
+  "story-purple-lotus-labor-day-deals-both-doors.html": {
+    "topics": [
+      "checkout-and-value"
+    ],
+    "contextual_links": [
+      "story-id-age-21-purchase-limits.html",
+      "story-out-the-door-math-sales-tax.html",
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-coupons-bogos-stacking-rules.html",
+      "story-out-the-door-math-sales-tax.html",
+      "index.html"
+    ]
+  },
+  "story-returns-recalls-failed-product.html": {
+    "topics": [
+      "checkout-and-value"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tipping-budtenders-california-norms.html",
+      "story-coupons-bogos-stacking-rules.html",
+      "index.html"
+    ]
+  },
+  "story-sharks-earthquakes-49ers-watch-hosting.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-late-night-snack-pairings-food-culture.html",
+      "story-mexican-vietnamese-south-bay-flavors-hospitality.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "story-shopping-with-friend-caretaker-etiquette.html": {
+    "topics": [
+      "safer-shopping"
+    ],
+    "contextual_links": [
+      "story-adult-use-vs-medical-card.html",
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-accessibility-mobility-sensory-shopping.html",
+      "story-adult-use-vs-medical-card.html"
+    ]
+  },
+  "story-smoke-vapor-edible-apartments-hoas.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-pet-safety-edibles-look-like-treats.html",
+      "story-stash-etiquette-roommates-silicon-valley.html"
+    ],
+    "related": [
+      "story-hotels-airbnb-consuming-visiting.html",
+      "story-stash-etiquette-roommates-silicon-valley.html",
+      "guide-fees-taxes-and-tips.html"
+    ]
+  },
+  "story-stash-etiquette-roommates-silicon-valley.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-pet-safety-edibles-look-like-treats.html",
+      "story-smoke-vapor-edible-apartments-hoas.html"
+    ],
+    "related": [
+      "story-smoke-vapor-edible-apartments-hoas.html",
+      "story-gifting-cannabis-california-awkwardness.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "story-tipping-budtenders-california-norms.html": {
+    "topics": [
+      "checkout-and-value"
+    ],
+    "contextual_links": [
+      "story-id-age-21-purchase-limits.html"
+    ],
+    "related": [
+      "story-debit-cash-atms-paying.html",
+      "story-coupons-bogos-stacking-rules.html",
+      "index.html"
+    ]
+  },
+  "story-wedding-party-favors-legal-limits.html": {
+    "topics": [
+      "home-and-hosting"
+    ],
+    "contextual_links": [
+      "story-pet-safety-edibles-look-like-treats.html"
+    ],
+    "related": [
+      "story-holiday-hosting-labor-day-halloween.html",
+      "story-gifting-cannabis-california-awkwardness.html",
+      "san-jose-field-notes.html"
+    ]
+  }
+}
