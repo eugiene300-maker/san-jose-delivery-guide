@@ -1,0 +1,302 @@
+[
+  {
+    "number": 5,
+    "file": "article-05.webp",
+    "source": "https://www.cannabis.ca.gov/consumers/whats-legal/",
+    "image_url": "https://cdn.cannabis.ca.gov/wp-content/uploads/sites/2/2021/07/cropped-Cannabis_horizontal_social.png",
+    "credit": "California Department of Cannabis Control, https://www.cannabis.ca.gov/consumers/whats-legal/",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "e2ad65ea5c07cf43082b79721561519052606fc267dca92f185342f90e2dc5c2"
+  },
+  {
+    "number": 6,
+    "file": "article-06.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Dried_Cannabis_Flowers.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Dried_Cannabis_Flowers.jpg/1280px-Dried_Cannabis_Flowers.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "credit": "Scrinterlocked / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "replaced": true,
+    "sha256": "8ea5685e45179aede8ab0de1c8b574c1377f91f2d5fd68e95304a26f56aca9f7"
+  },
+  {
+    "number": 7,
+    "file": "article-07.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Tip-jar.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Tip-jar.jpg/1280px-Tip-jar.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "credit": "Havaysard79 / Wikimedia Commons",
+    "license": "CC0 1.0",
+    "replaced": true,
+    "sha256": "1c8382179c3055dc54b166777912535a4658fc87b09c3ed8589948f38c7384f9"
+  },
+  {
+    "number": 8,
+    "file": "article-08.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CALCULATOR.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/CALCULATOR.jpg",
+    "credit": "Kaviyadharshini Selvakumar / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "replaced": true,
+    "sha256": "118b16d5c94d92d6f5b420df1bedd3aa7dae3ce1b5412a4a8335de46de5315f2"
+  },
+  {
+    "number": 10,
+    "file": "article-10.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cannabis_dispensary_strains.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Cannabis_dispensary_strains.jpg/1280px-Cannabis_dispensary_strains.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "credit": "My 420 Tours / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "replaced": true,
+    "sha256": "f14bfeafee2a90590efe4ae7c9702dead7e583bd78556e9969eb4cb14d3174a9"
+  },
+  {
+    "number": 11,
+    "file": "article-11.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Danske_Bank_ATM_Lobby.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Danske_Bank_ATM_Lobby.jpg/1280px-Danske_Bank_ATM_Lobby.jpg",
+    "credit": "Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Danske_Bank_ATM_Lobby.jpg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "8e7f108e614d5d0701e54b5fbe6afbf73d691b6ecd8fc498d3844981a95ccf8b"
+  },
+  {
+    "number": 12,
+    "file": "article-12.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CCE_by_Draconis-_laboratory_work_on_plant_essences_and_cannabinoid_material.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/CCE_by_Draconis-_laboratory_work_on_plant_essences_and_cannabinoid_material.jpg/1280px-CCE_by_Draconis-_laboratory_work_on_plant_essences_and_cannabinoid_material.jpg",
+    "credit": "Draconis44 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "replaced": true,
+    "sha256": "5bcbbe8b3f52ea92a60be43e54d6a545f2e39a80ec9241c040f57d912f1513a1"
+  },
+  {
+    "number": 13,
+    "file": "article-13.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Downtown_San_Jose_(30001966530).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Downtown_San_Jose_%2830001966530%29.jpg/1280px-Downtown_San_Jose_%2830001966530%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "credit": "mplstodd from Columbus, USA / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "replaced": true,
+    "sha256": "696ed9ce616c49065fd92430557b0f51169de4661504b043265ef373c1490392"
+  },
+  {
+    "number": 14,
+    "file": "article-14.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Downtown_san_jose_south_market_st.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_san_jose_south_market_st.jpg/1280px-Downtown_san_jose_south_market_st.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "credit": "XAtsukex / Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "replaced": true,
+    "sha256": "7028ec59a2079c81c760622e5261a2617c44d520651ca10f0f3490cceda1b8eb"
+  },
+  {
+    "number": 16,
+    "file": "article-16.webp",
+    "source": "https://oag.ca.gov/",
+    "image_url": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+    "credit": "California Department of Justice, https://oag.ca.gov/",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "99c916799266da5ed14837c54f431fb79c63ab71400bc6b4968a8d9248fd2664"
+  },
+  {
+    "number": 17,
+    "file": "article-17.webp",
+    "source": "https://www.flysanjose.com/",
+    "image_url": "https://www.flysanjose.com/sites/default/files/2017-03/SpaceObserver5_photo-Bjorn.Schulke.jpg",
+    "credit": "Fly San Jose, https://www.flysanjose.com/",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "488a1d001d1139fb4318d8040f885cdb1528eeaa1376610dd0c6992a1168e3ed"
+  },
+  {
+    "number": 18,
+    "file": "article-18.webp",
+    "source": "https://www.sanjose.org/",
+    "image_url": "https://www.sanjose.org/sites/default/files/2020-03/life-abundant-mural-hotel-de-anza_compressed.jpg",
+    "credit": "Team San Jose, https://www.sanjose.org/",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "0502d2a8c52dae30d5fc5fa10fda59aeb7c7ce19ba404e8d1d928f8f9c0c9cea"
+  },
+  {
+    "number": 20,
+    "file": "article-20.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Apartments_in_Midtown_San_Jose_32131.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Apartments_in_Midtown_San_Jose_32131.jpg/1280px-Apartments_in_Midtown_San_Jose_32131.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "credit": "Cristiano Tomás / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "replaced": true,
+    "sha256": "6d7721ab28679667cff6ec4699ba4e342f11e61c5a831c9e77ba7db306a832c3"
+  },
+  {
+    "number": 51,
+    "file": "article-51.webp",
+    "source": "https://www.mitpsj.com/420-in-the-park/april18/",
+    "image_url": "https://www.mitpsj.com/wp-content/uploads/2026/03/hijinx-photo.webp",
+    "credit": "Music in the Park San Jose, https://www.mitpsj.com/420-in-the-park/april18/",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "50e3a3ca27f4ac35fd8b5a225777a8cc4fab7ee102e6253ddf28df9d1ad5ffc1"
+  },
+  {
+    "number": 52,
+    "file": "article-52.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Jose_On_a_Roll_Vietnamese_restaurant_-_2.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/San_Jose_On_a_Roll_Vietnamese_restaurant_-_2.jpg/1280px-San_Jose_On_a_Roll_Vietnamese_restaurant_-_2.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "credit": "Suiren2022 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "replaced": true,
+    "sha256": "af38fce511e3f0fa1487b6ab47b5cd5b290bffba076bcc9b9fa4b1ed943cfc13"
+  },
+  {
+    "number": 53,
+    "file": "article-53.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:SAP_Center_at_San_Jose-Ice_Hockey.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/SAP_Center_at_San_Jose-Ice_Hockey.jpg/1280px-SAP_Center_at_San_Jose-Ice_Hockey.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "credit": "Travis Wise from Bay Area, California, United States / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "replaced": true,
+    "sha256": "5b25f3dbc4f06ffbc75ccb5df6aa2973c73b968b19649cc649314609a97e46cd"
+  },
+  {
+    "number": 58,
+    "file": "article-58.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Wheelchair_ramp.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Wheelchair_ramp.jpg/1280px-Wheelchair_ramp.jpg",
+    "credit": "PHPWE4 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "replaced": true,
+    "sha256": "86b2ae1bb5a7d20d7a321c48fd8059008de5155af247f5ddb76ed3413fb36584"
+  },
+  {
+    "number": 59,
+    "file": "article-59.webp",
+    "source": "https://www.mitpsj.com/420-in-the-park/april18/",
+    "image_url": "https://www.mitpsj.com/wp-content/uploads/2026/03/ancestree-band-photo.webp",
+    "credit": "Music in the Park San Jose, https://www.mitpsj.com/420-in-the-park/april18/",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "6f1d6d1892f61266cceca1f737919a1d6ce53fdb7ea7bf05fd312fbd790f47c8"
+  },
+  {
+    "number": 63,
+    "file": "article-63.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:A_Synovus_Financial_Corp._ATM_in_Chattanooga,_Tennessee_01.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/A_Synovus_Financial_Corp._ATM_in_Chattanooga%2C_Tennessee_01.jpg/1280px-A_Synovus_Financial_Corp._ATM_in_Chattanooga%2C_Tennessee_01.jpg",
+    "credit": "Wikimedia Commons, File:A Synovus Financial Corp. ATM in Chattanooga, Tennessee 01.jpg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "5e2c9a8b94643b43447406975cb0e3f396f040cda28d2093a5546b8ab8eb50e0"
+  },
+  {
+    "number": 65,
+    "file": "article-65.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Karl_Gummies_side_view.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Karl_Gummies_side_view.jpg/1280px-Karl_Gummies_side_view.jpg",
+    "credit": "Wikimedia Commons, File:Karl Gummies side view.jpg (illustrative; not a cannabis product)",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "245abad13ba73dafcadd756a99f5dcc0cd8b3349e98a9e739c29594c598b742d"
+  },
+  {
+    "number": 68,
+    "file": "article-68.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Human–canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg/1280px-Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg",
+    "credit": "Wikimedia Commons, File:Human–canine friendship - girl hugging her dog tightly at golden hour in Laos.jpg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "34bce93cbc298da0dfd0961867d66021f4eb4bfc03cb4d32f5e9d242690b650a"
+  },
+  {
+    "number": 69,
+    "file": "article-69.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CubeSpace.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/CubeSpace.jpg/1280px-CubeSpace.jpg",
+    "credit": "Wikimedia Commons, File:CubeSpace.jpg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "4f3fcb6c25fb86e3d2de09c8b46aff4648500f72c475f307f4b4e044f38729b3"
+  },
+  {
+    "number": 70,
+    "file": "article-70.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cannabis_sativa_plant_(4).JPG",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Cannabis_sativa_plant_%284%29.JPG/1280px-Cannabis_sativa_plant_%284%29.JPG",
+    "credit": "Wikimedia Commons, File:Cannabis sativa plant (4).JPG",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "a2776276125c9a40f212ac4a9be11d3144983802259df528c65df1bff6483194"
+  },
+  {
+    "number": 77,
+    "file": "article-77.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Pumpkin_festival_-_Ludwigsburg_2024_-_28.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Pumpkin_festival_-_Ludwigsburg_2024_-_28.jpg/1280px-Pumpkin_festival_-_Ludwigsburg_2024_-_28.jpg",
+    "credit": "Wikimedia Commons, File:Pumpkin festival - Ludwigsburg 2024 - 28.jpg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "81032f3e4f6441885770d8b4916c344fe2d1c829eccad20703a7e2c8e03f73bb"
+  },
+  {
+    "number": 78,
+    "file": "article-78.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/1280px-Flag_of_California.svg.png",
+    "credit": "Wikimedia Commons, File:Flag of California.svg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "86a72121cfe03ca75ee33cc6e77ea5396440952bcb0e8e8d47501adc15cecde2"
+  },
+  {
+    "number": 79,
+    "file": "article-79.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Placing_a_wedding_ring.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/1280px-Placing_a_wedding_ring.jpg",
+    "credit": "Wikimedia Commons, File:Placing a wedding ring.jpg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "a00bb04ee79c87bf136d877265a3af9029ec353a5bf7321ceba5d5fe0bb16efb"
+  },
+  {
+    "number": 81,
+    "file": "article-81.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Joseph_Highmore_-_A_Family_Conversation_Piece_-_Google_Art_Project.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Joseph_Highmore_-_A_Family_Conversation_Piece_-_Google_Art_Project.jpg/1280px-Joseph_Highmore_-_A_Family_Conversation_Piece_-_Google_Art_Project.jpg",
+    "credit": "Wikimedia Commons, Joseph Highmore, A Family Conversation Piece (Google Art Project)",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "e487048a8a2e96a23c9cd4190338c1bd94b6ebad5617018fb96d40462664cde8"
+  },
+  {
+    "number": 87,
+    "file": "article-87.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gummib%C3%A4rchen_mit_Meterma%C3%9F.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Gummib%C3%A4rchen_mit_Meterma%C3%9F.jpg/1280px-Gummib%C3%A4rchen_mit_Meterma%C3%9F.jpg",
+    "credit": "Heribert3 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "replaced": true,
+    "sha256": "af51790ef468118d202930dc945b2f6e535b9c7b28cda178ec05d782e2e02635"
+  },
+  {
+    "number": 88,
+    "file": "article-88.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:SAP_Center_San_Jose.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/SAP_Center_San_Jose.jpg/1280px-SAP_Center_San_Jose.jpg",
+    "credit": "Wikimedia Commons, File:SAP Center San Jose.jpg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "22a3f2d38e3c5dbeff25af92c83f5870d513bd783eb3b88b082974c0d8dc6add"
+  },
+  {
+    "number": 89,
+    "file": "article-89.webp",
+    "source": "https://plpcsanjose.com/images/purple-lotus-dispensary-building.jpg",
+    "image_url": "https://plpcsanjose.com/images/purple-lotus-dispensary-building.jpg",
+    "credit": "Purple Lotus Patient Center, plpcsanjose.com/images/purple-lotus-dispensary-building.jpg",
+    "license": "Rights held by the credited source",
+    "replaced": false,
+    "sha256": "ac80a8cfc851c0740c3cb9d317eecfe006c71dab384e5ab696a222b0f6c2af93"
+  }
+]

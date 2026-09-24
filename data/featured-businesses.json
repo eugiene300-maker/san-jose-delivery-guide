@@ -1,0 +1,42 @@
+{
+  "reviewed": "2026-09-24",
+  "businesses": [
+    {
+      "name": "Purple Lotus",
+      "category": "Dispensary",
+      "sponsored": true,
+      "source": "https://plpcsanjose.com/",
+      "id": "purple-lotus"
+    },
+    {
+      "id": "on-a-roll",
+      "name": "On a Roll",
+      "category": "Dining",
+      "description": "Banh mi and Asian-inspired dishes inside San Pedro Square Market.",
+      "image": "business-on-a-roll.webp",
+      "alt": "Food and a beverage at On a Roll Vietnamese restaurant in downtown San Jose.",
+      "source": "https://sanpedrosquaremarket.com/on-a-roll",
+      "sponsored": false
+    },
+    {
+      "id": "pizza-my-heart",
+      "name": "Pizza My Heart",
+      "category": "Pizza",
+      "description": "Pizza by the slice or whole pie, with a location on East San Carlos Street downtown.",
+      "image": "business-pizza-my-heart.webp",
+      "alt": "Pizza My Heart’s Big Sur pizza with colorful toppings",
+      "source": "https://www.pizzamyheart.com/",
+      "sponsored": false
+    },
+    {
+      "id": "recycle",
+      "name": "Recycle Bookstore",
+      "category": "Books",
+      "description": "Used books, packed shelves, and resident cats on The Alameda in San Jose.",
+      "image": "business-recycle.webp",
+      "alt": "A ginger bookstore cat sits beside an open book among Recycle Bookstore’s shelves",
+      "source": "https://www.sanjose.org/listings/recycle-bookstore",
+      "sponsored": false
+    }
+  ]
+}

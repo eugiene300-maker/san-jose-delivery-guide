@@ -1,0 +1,233 @@
+{
+  "topics": [
+    {
+      "id": "checkout-and-value",
+      "title": "Checkout and value",
+      "description": "Fees, taxes, payment methods, discounts and comparing the actual total.",
+      "articles": [
+        7,
+        8,
+        10,
+        11,
+        12,
+        87,
+        88,
+        89
+      ],
+      "keywords": [
+        "price",
+        "cost",
+        "fee",
+        "tax",
+        "discount",
+        "payment",
+        "value",
+        "checkout",
+        "budget",
+        "minimum"
+      ]
+    },
+    {
+      "id": "delivery-and-travel",
+      "title": "Delivery, pickup and travel",
+      "description": "City planning notes, secure handoffs and the rules around taking a purchase home.",
+      "articles": [
+        13,
+        14,
+        16,
+        17,
+        63
+      ],
+      "keywords": [
+        "delivery",
+        "pickup",
+        "city",
+        "travel",
+        "airport",
+        "handoff",
+        "address",
+        "driving"
+      ]
+    },
+    {
+      "id": "home-and-hosting",
+      "title": "Home and hosting",
+      "description": "Food, guests, shared homes and thoughtful plans for a night in.",
+      "articles": [
+        18,
+        20,
+        51,
+        52,
+        53,
+        69,
+        70,
+        77,
+        78,
+        79
+      ],
+      "keywords": [
+        "home",
+        "hosting",
+        "party",
+        "food",
+        "roommate",
+        "apartment",
+        "hotel",
+        "gift",
+        "growing"
+      ]
+    },
+    {
+      "id": "safer-shopping",
+      "title": "Safer shopping and access",
+      "description": "ID, purchase limits, accessibility and looking out for the people and pets at home.",
+      "articles": [
+        5,
+        6,
+        58,
+        59,
+        65,
+        68,
+        81
+      ],
+      "keywords": [
+        "id",
+        "age",
+        "limit",
+        "medical",
+        "accessibility",
+        "safety",
+        "pet",
+        "care",
+        "consent"
+      ]
+    }
+  ],
+  "tool_topics": {
+    "index.html": [
+      "checkout-and-value",
+      "delivery-and-travel"
+    ]
+  },
+  "aliases": {
+    "5": [
+      "medical card",
+      "medical patients"
+    ],
+    "6": [
+      "purchase limits",
+      "valid ID"
+    ],
+    "7": [
+      "tipping",
+      "budtender tips"
+    ],
+    "8": [
+      "sales tax",
+      "out-the-door"
+    ],
+    "10": [
+      "coupons",
+      "BOGOs",
+      "stacking discounts"
+    ],
+    "11": [
+      "ATMs",
+      "debit cards"
+    ],
+    "12": [
+      "recalls",
+      "returns"
+    ],
+    "13": [
+      "delivery vs. pickup",
+      "pickup vs. delivery"
+    ],
+    "14": [
+      "delivery area",
+      "delivery radius"
+    ],
+    "16": [
+      "open-container",
+      "driving with cannabis"
+    ],
+    "17": [
+      "SJC",
+      "flying"
+    ],
+    "18": [
+      "Airbnb",
+      "hotels"
+    ],
+    "20": [
+      "HOAs",
+      "apartments"
+    ],
+    "51": [
+      "snack pairings",
+      "late-night snacks"
+    ],
+    "52": [
+      "Vietnamese",
+      "Mexican food"
+    ],
+    "53": [
+      "watch party",
+      "watch parties"
+    ],
+    "58": [
+      "accessibility",
+      "mobility"
+    ],
+    "59": [
+      "caretaker",
+      "shopping with a friend"
+    ],
+    "63": [
+      "porch theft",
+      "delivery security"
+    ],
+    "65": [
+      "over-intoxicated",
+      "over-intoxication"
+    ],
+    "68": [
+      "pet safety",
+      "pets"
+    ],
+    "69": [
+      "roommates",
+      "shared housing"
+    ],
+    "70": [
+      "home growing",
+      "growing at home"
+    ],
+    "77": [
+      "holiday hosting",
+      "Halloween"
+    ],
+    "78": [
+      "gifting cannabis",
+      "gifting"
+    ],
+    "79": [
+      "wedding",
+      "party favors"
+    ],
+    "81": [
+      "adult kids",
+      "adult children"
+    ],
+    "87": [
+      "price per milligram",
+      "price-per-milligram"
+    ],
+    "88": [
+      "personal menu"
+    ],
+    "89": [
+      "Labor Day deals"
+    ]
+  }
+}
