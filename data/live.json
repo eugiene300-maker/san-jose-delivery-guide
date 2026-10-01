@@ -5,12 +5,19 @@
     {
       "source": "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses",
       "status": "error",
-      "checked_at": "2026-09-23T17:10:16+00:00",
+      "checked_at": "2026-10-01T17:25:07+00:00",
       "message": "HTTP Error 403: Forbidden"
     }
   ],
-  "last_attempt": "2026-09-23T17:10:16+00:00",
+  "last_attempt": "2026-10-01T17:25:07+00:00",
   "history": [
+    {
+      "checked_at": "2026-10-01T17:25:07+00:00",
+      "changed_fields": [],
+      "failed_sources": [
+        "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+      ]
+    },
     {
       "checked_at": "2026-09-23T17:10:16+00:00",
       "changed_fields": [],
